@@ -1,0 +1,9 @@
+---
+- name: Ensure httpd is Installed
+  hosts: localhost
+  become: true 
+  tasks:
+    - name: Ensure httpd is installed
+      apt:
+        name: apache2
+        state: present
