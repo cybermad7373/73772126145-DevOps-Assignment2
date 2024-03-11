@@ -19,6 +19,41 @@ Ansible is used across various industries and environments, including:
 - DevOps practices
 - Continuous integration and continuous deployment (CI/CD) pipelines
 
+### System Requirements:
+1. **Operating System**:
+   - You can use Ansible on various systems like Linux, macOS, and Windows.
+
+2. **Python**:
+   - Make sure Python is installed on the computer where you'll be controlling Ansible. Most systems already have it.
+
+3. **Disk Space and Memory**:
+   - Have enough space and memory on your computers for Ansible to work smoothly.
+
+### Network Requirements:
+1. **SSH Access**:
+   - The computers you want to control with Ansible should allow SSH connections.
+
+2. **Networking**:
+   - Ensure that the computers can talk to each other over the network. No special setup needed beyond typical network connectivity.
+
+### Other Considerations:
+1. **Inventory File**:
+   - Create a list (inventory) of the computers you want to control.
+
+2. **Privilege Escalation**:
+   - If you need to do special tasks that require higher permissions, configure Ansible to handle that.
+
+3. **Modules and Dependencies**:
+   - Some tasks might need additional software or modules. Make sure those are installed if needed.
+
+4. **Firewalls and Security**:
+   - Check that firewalls or security settings don't block Ansible's communication between computers.
+
+5. **Documentation and Support**:
+   - Use Ansible's documentation and community support if you need help or guidance.
+
+By meeting these requirements, you'll be all set to use Ansible to automate tasks and manage your systems effectively.
+
 ## Installation Steps
 Follow these steps to install Ansible:
 
