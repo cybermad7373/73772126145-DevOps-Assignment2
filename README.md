@@ -2,9 +2,14 @@ ANSIBLE : [Assignmet 2 Ansible Wiki Page](https://github.com/cybermad7373/737721
 
 DOCKER : [Assignmet 2 Docker Wiki Page](https://github.com/cybermad7373/73772126145-DevOps-Assignment2/wiki/Docker)
 
+Working is on Linkedin [click Here](https://www.linkedin.com/posts/ruthravarshan_devops-docker-ansible-activity-7180970801502826496-8ySo?utm_source=share&utm_medium=member_desktop) to view.
 
 
-**Ansible Guide**
+
+
+***BASIC GUIDANCE***
+
+**For Ansible**
 
 Ansible is a powerful automation tool for configuration management, application deployment, and task automation. Ansible uses simple, human-readable YAML syntax and requires no agents to be installed on managed nodes.
 
@@ -103,7 +108,7 @@ Before getting started, ensure you have:
 
 
 
-**Docker Guide**
+**For Docker**
 
 Docker is a platform for developing, shipping, and running applications inside containers. Containers allow you to package your application and its dependencies into a standardized unit for software development. This guide will help you get started with Docker on both Windows and Linux.
 
